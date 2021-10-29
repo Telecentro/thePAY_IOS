@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "country_list.csv",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

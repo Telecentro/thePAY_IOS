@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>140060405634-3n807dmqtf1jh6ojo49pv9fsj6ae5ae9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.140060405634-3n807dmqtf1jh6ojo49pv9fsj6ae5ae9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>140060405634-17pbvrhf5s1ngk75ofhnkv4k11rmv21u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD67yFdghXfwLhYXcWa2Cx3CY5QnGd6gMw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>140060405634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.co.telecentro.thepay.ios</string>
+	<key>PROJECT_ID</key>
+	<string>telecentro-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>telecentro-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:140060405634:ios:ffbf9a3f9545f7cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://telecentro-app.firebaseio.com</string>
+</dict>
+</plist>
